@@ -1,0 +1,22 @@
+{
+  "name": "okay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShareeO/Okay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShareeO/Okay/issues"
+  },
+  "homepage": "https://github.com/ShareeO/Okay#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
