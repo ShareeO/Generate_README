@@ -49,7 +49,7 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
   
   ## Contributing
-  ${data.contributing}
+  ${data.contribute}
   
   ## Contact
   Reach out to me via email at ${data.email} or through [github](https://github.com/${data.github}) if you have any questions
