@@ -29,22 +29,28 @@ return `
 function generateMarkdown(data) {
   return `
   # ${data.title} ${renderLicenseBadge(data.license)} 
+  
   ## Description
   ${data.description}
+  
   ## Table of Contents
   * [Installing the program](#installation)
   * [Using the program](#usage)
+  
   ${renderLicenseLink(data.license)}
   * [contribute](#contributing)
   * [contact](#contact)
+  
   ## Installation
   ${data.installation}
   
   ## Usage
   ${data.usage}
   ${renderLicenseSection(data.license)}
+  
   ## Contributing
   ${data.contributing}
+  
   ## Contact
   Reach out to me via email at ${data.email} or through [github](https://github.com/${data.github}) if you have any questions
 `;
