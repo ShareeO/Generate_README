@@ -2,7 +2,6 @@
 
 ## Table of Contents
   * [Title](#title)
-  * [License](#license)
   * [Description](#description)
   * [Installing the program](#installation)
   * [Using the program](#usage)
