@@ -38,4 +38,4 @@ https://user-images.githubusercontent.com/77172445/116020177-64bea980-a60b-11eb-
   ## Contributing
   
   ## Contact
-  Reach out to me through [github](https://github.com/ShareeO/generate_README.git) if you have any questions.
+  Reach out to me through [github](https://github.com/ShareeO) if you have any questions.
