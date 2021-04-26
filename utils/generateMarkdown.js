@@ -27,18 +27,18 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `
   # ${data.title} ${renderLicenseBadge(data.license)} 
-  
-  ## Description
-  ${data.description}
-  
+    
   ## Table of Contents
+  * [Description](#description)
   * [Installing the program](#installation)
   * [Using the program](#usage)
-  
-  ${renderLicenseLink(data.license)}
+    ${renderLicenseLink(data.license)}
   * [contribute](#contributing)
   * [contact](#contact)
   
+  ## Description
+  ${data.description}
+
   ## Installation
   ${data.installation}
   
