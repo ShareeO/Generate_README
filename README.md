@@ -1,7 +1,6 @@
 # generate_README
 
 ## Table of Contents
-  * [Title](#title)
   * [Description](#description)
   * [Installing the program](#installation)
   * [Using the program](#usage)
@@ -34,8 +33,9 @@ then run npm start
 You can quickly and easily generate a README file by using a command-line application to generate one. 
 This allows you to devote more time working on projects.  
 
+https://user-images.githubusercontent.com/77172445/116020177-64bea980-a60b-11eb-86eb-e0459d63dc3e.mp4
+
   ## Contributing
-  
   
   ## Contact
   Reach out to me through [github](https://github.com/ShareeO/generate_README.git) if you have any questions.
