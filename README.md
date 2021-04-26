@@ -34,8 +34,6 @@ then run npm start
 You can quickly and easily generate a README file by using a command-line application to generate one. 
 This allows you to devote more time working on projects.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fQ9-DAVOfcI" title="YouTube video player" frameborder="0" allow="accelerometer autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-  
   ## Contributing
   
   
