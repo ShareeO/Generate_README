@@ -21,8 +21,7 @@ return ``
 function renderLicenseSection(license) {
   if (license !== 'None'){
     return `## Licenses
-return `
-}
+return `}
 }
 
 // TODO: Create a function to generate markdown for README
