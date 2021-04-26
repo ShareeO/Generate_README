@@ -1,5 +1,5 @@
 
-  # Testing 
+  # Example 
   ![license](https://img.shields.io/badge/license-MIT-green) 
     
   ## Table of Contents
@@ -12,17 +12,16 @@
   * [contact](#contact)
   
   ## Description
-  Testing
+  Example
 
   ## Installation
-  Testing
+  Example
   
   ## Usage
-  Testing
-  ## Licenses 
+  Example
   
   ## Contributing
-  Testing
+  Example
   
   ## Contact
-  Reach out to me via email at Testing or through [github](https://github.com/Testing) if you have any questions
+  Reach out to me via email at Example or through [github](https://github.com/Example) if you have any questions
